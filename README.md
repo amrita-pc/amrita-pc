@@ -5,6 +5,7 @@
 I'd also like to learn about the basics of web development.
 - Last year for Halloween I set up a Magic Mirror from a RPi where you could scan a QR code
 and enter a message of your choice to be displayed on the Mirror. 
+
 - Hoping to resurrect this before Christmas and add Xmas flair to it
 
 - In the spirit of festivals, I wrote a bash script for Christmas last year to allocate partners for Secret Santa.
